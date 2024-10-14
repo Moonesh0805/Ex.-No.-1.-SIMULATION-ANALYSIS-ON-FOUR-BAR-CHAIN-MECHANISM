@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 14-10-2024
 
 ## AIM:
 
@@ -54,7 +54,8 @@
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/32398af7-addd-4905-81ca-509fa1c9b40d)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/873afeab-b120-42b6-9845-f96d3c17705e)
+
 
 ### Name: MOONESH P
 ### Register Number: 212223230126
